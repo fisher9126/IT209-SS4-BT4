@@ -55,11 +55,12 @@ git commit --amend -m "Remove credentials from tracking and add .gitignore"
 
 ### `git log -n 1`
 ```
-commit a1b2c3d4e5f67890abcdef1234567890abcdef12 (HEAD -> main)
-Author: Your Name <your_email@example.com>
-Date:   Mon Oct 5 09:47:00 2026 +0700
+commit caa45426e3154b15b516c94bd276452b729e4d8c (HEAD -> master)
+Author: cccc9126 <huyhuy9126@gmail.com>
+Date:   Mon Oct 5 10:07:33 2026 +0700
 
     Remove credentials from tracking and add .gitignore
+
 ```
 
 ### `git status`
